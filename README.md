@@ -5,7 +5,8 @@
    ```javascript
     export const Karen = {
     pronome: ["ela", "dela"],
-    tecnologias: ["HTML", "CSS", "Javascript", "Typescript", "React.JS", "Node.JS", "SQL", "AWS"]
+    tecnologias: ["HTML", "CSS", "Javascript", "Typescript", "React.JS", "Node.JS", "SQL", "AWS"],
+    apaixonadaPor: ["café", "sorvete", "música", "praia", "stranger things"]
     }
   
    ```
