@@ -1,7 +1,5 @@
-### Hello World! I'm Karen Kubo <img src="https://user-images.githubusercontent.com/98588790/182229676-6ad825e4-f1f1-4b76-8ffa-40697f7f96b3.gif" width="50px"/>
+<img src="https://user-images.githubusercontent.com/98588790/182242383-3745184a-35b3-47d8-9b88-326b911911d9.gif"/>
 
-<div>
-  <em>Desenvolvedora Full-Stack</em><img src="https://user-images.githubusercontent.com/98588790/182231434-10f0f942-35f3-4eda-a55a-9e961a6ddf80.gif" width="50px"/> <br/>
  </div>
 
    ```javascript
