@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello World! I'm Karen Kubo <img src="https://user-images.githubusercontent.com/98588790/182229676-6ad825e4-f1f1-4b76-8ffa-40697f7f96b3.gif" width="50px"/>
 
-<!--
-**karennkubo/karennkubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <em>Desenvolvedora Full-stack</em><img src="https://user-images.githubusercontent.com/98588790/182231434-10f0f942-35f3-4eda-a55a-9e961a6ddf80.gif" width="50px"/> <br/>
+ </div>
 
-Here are some ideas to get you started:
+   ```javascript
+    export const Karen = {
+    pronome: ["ela", "dela"],
+    tecnologias: ["HTML", "CSS", "Javascript", "Typescript", "React.JS", "Node.JS", "SQL", "AWS"]
+    }
+  
+   ```
+   
+<div>
+ <a href="https://github.com/karennkubo"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=karennkubo&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karennkubo&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
