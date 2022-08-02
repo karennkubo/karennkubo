@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/98588790/182242383-3745184a-35b3-47d8-9b88-326b911911d9.gif"/>
+<img src="https://user-images.githubusercontent.com/98588790/182242383-3745184a-35b3-47d8-9b88-326b911911d9.gif" alt="Hello World, I'm Karen Kubo - Desenvolvedora Full-Stack"/>
 
  </div>
 
