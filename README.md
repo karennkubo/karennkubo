@@ -4,9 +4,10 @@
 
    ```javascript
     export const Karen = {
-    pronome: ["ela", "dela"],
-    tecnologias: ["HTML", "CSS", "Javascript", "Typescript", "React.JS", "Node.JS", "SQL", "AWS"],
-    apaixonadaPor: ["café", "sorvete", "música", "praia", "stranger things"]
+    pronouns: ["she", "her"],
+    worksAt: "BEES",
+    technologies: ["HTML", "CSS", "Javascript", "Typescript", "React.JS", "Node.JS", "SQL", "AWS"],
+    inLoveWith: ["coffee", "ice cream", "beach", "stranger things"]
     }
   
    ```
